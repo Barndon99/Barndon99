@@ -5,7 +5,6 @@
 - 🙇‍♂️ I’m currently learning: __Blockchain, Solidity Programming, Rust__
 - 📢 Ask me about __React, Cloud Engineering (AWS), IAC, CI/CD, Docker, UI/UX, Software Dev...__
 
-<br
 
 ### Toolset
 
