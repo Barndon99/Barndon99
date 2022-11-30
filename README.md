@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://medium.com/@rowlandsonbrandon"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" width="80" height="40" /></a>
+            <a href="https://medium.com/@rowlandsonbrandon">📚</a>
         </td>
         <td>
             <a href="">🌐</a>
@@ -41,7 +41,7 @@
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https:www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
