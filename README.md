@@ -97,7 +97,7 @@
             <img src="https://github-readme-stats.vercel.app/api?username=Barndon99&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barndon99&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barndon99&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby&theme=tokyonight"/>
         </td>
     </tr>
 </table>
