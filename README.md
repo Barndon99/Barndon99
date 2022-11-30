@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://medium.com/@rowlandsonbrandon"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://medium.com/@rowlandsonbrandon"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" /></a>
         </td>
         <td>
             <a href="">🌐</a>
@@ -86,7 +86,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=Barndon99t&row=3&column=4&no-bg=true"/>
         </td>
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barndon99"/>
