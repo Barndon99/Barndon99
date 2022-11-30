@@ -1,37 +1,11 @@
 # Hello there 👋, I'm Brandon Rowlandson
-### Software/FullStack/Blockchain Engineer
+### Software / FullStack / Blockchain Engineer
 
-- 🔭 I’m currently working on: __FullStack & Client Applications__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Rust__
-- 💬 Ask me about __React, Cloud Engineering (AWS), IAC, CI/CD, Docker, UI/UX, Software Dev...__
+- 🤓 I’m currently working on: __FullStack & Client Applications__ 
+- 🙇‍♂️ I’m currently learning: __Blockchain, Solidity Programming, Rust__
+- 📢 Ask me about __React, Cloud Engineering (AWS), IAC, CI/CD, Docker, UI/UX, Software Dev...__
 
-<br/>
-
-
-<table>
-    <tr>
-        <th>My Blog</th>
-        <th>My Website (Under Construction Check back)</th>
-        <th>My CV</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://medium.com/@rowlandsonbrandon">📚</a>
-        </td>
-        <td>
-            <a href="">🌐</a>
-        </td>
-        <td>
-            <a href="https://resume.io/r/wnsYcMRtv">📃</a>
-        </td>
-    </tr>
-</table>
-
-
-
-### Contact me:
-
-<a href="https://www.linkedin.com/in/brandon-rowlandson/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<br
 
 ### Toolset
 
