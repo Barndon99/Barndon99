@@ -86,10 +86,10 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=Barndon99&rank=SSS,SS,S,AAA,AA,A,B"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=Barndon99&rank=SSS,SS,S,AAA,AA,A,B&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barndon99"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barndon99&theme=tokyonight"/>
         </td> 
     </tr>
     <tr>
