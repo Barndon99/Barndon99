@@ -16,7 +16,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://medium.com/@rowlandsonbrandon"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" /></a>
+            <a href="https://medium.com/@rowlandsonbrandon"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" width="80" height="40" /></a>
         </td>
         <td>
             <a href="">🌐</a>
